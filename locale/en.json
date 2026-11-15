@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "shortcuts",
+    "description": "Adds a left-sidebar page for assigning custom send and line-break keys in the message composer."
+  }
+}

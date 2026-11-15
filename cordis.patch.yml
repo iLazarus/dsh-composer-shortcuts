@@ -1,0 +1,6 @@
+# Bundle layer for dsh-composer-shortcuts.
+# The row id is the Loader entry id; the Client bundle id is the package name.
+- insert:
+    - id: composer-shortcuts
+      name: 'dsh-composer-shortcuts'
+      config: {}
